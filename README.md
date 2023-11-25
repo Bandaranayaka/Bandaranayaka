@@ -1,6 +1,5 @@
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-## 👋 Hello, I'm Thilakshana Bandaranayaka!
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Thilakshana Bandaranayaka!
 
 As a caffeinated inhabitant of the code cosmos, I traverse the realms of SLIIT University (Sri Lanka)  enthusiastic about technology and its applications in Data Science. 
 Currently navigating the exciting journey of academia, I have a strong foundation in data structures, algorithms, and machine learning.
