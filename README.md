@@ -51,6 +51,11 @@ I'm on a continuous learning path, exploring natural language processing to deep
 - Implemented a sentiment analysis system for my machine learning class, achieving an accuracy of 85%.
 - Contributed to an open-source project for developing a chatbot using Python and TensorFlow.
 
+## 🔥 GitHub Streak & stats <br> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bandaranayaka&theme=dark&card_width=467)](https://git.io/streak-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandaranayaka&theme=synthwave&show_icons=true)
+
+
 ## 📫 Let's Connect
 - [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/thilakshana-bandaranayaka)
 
@@ -60,9 +65,7 @@ I'm passionate about leveraging technology to solve real-world problems and open
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-## 🔥 GitHub Streak & stats <br> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bandaranayaka&theme=dark&card_width=467)](https://git.io/streak-stats) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandaranayaka&theme=synthwave&show_icons=true)
+
 
 
 
