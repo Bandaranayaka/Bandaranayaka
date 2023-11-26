@@ -3,10 +3,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Thilakshana Bandaranayaka!
 
-As a caffeinated inhabitant of the code cosmos, I traverse the realms of SLIIT University (Sri Lanka)  enthusiastic about technology and its applications in Data Science. 
-Currently navigating the exciting journey of academia, I have a strong foundation in data structures, algorithms, and machine learning.
+As a caffeinated inhabitant of the code cosmos, I traverse the realms of SLIIT University (Sri Lanka) currently navigating the exciting journey of academia, being enthusiastic about technology and its applications in Data Science. 
 
- Enchanted by the mystique of technology, my heart beats to the rhythm of algorithms and the dance of artificial intelligence.
+Enchanted by the charisma of technology, my heart beats to the rhythm of algorithms and the dance of artificial intelligence.
 
 ## 📚 Academic Background
 - **University:** SLIIT University (Sri Lanka)
@@ -59,7 +58,7 @@ I'm on a continuous learning path, exploring natural language processing to deep
 
 
 ## 📫 Let's Connect
-- [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/thilakshana-bandaranayaka)
+ [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/thilakshana-bandaranayaka)
 
 I'm passionate about leveraging technology to solve real-world problems and open to connecting with like-minded individuals. Feel free to explore my repositories and reach out for any collaborations or discussions! 🚀
 
