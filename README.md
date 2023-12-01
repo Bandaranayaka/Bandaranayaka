@@ -1,9 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Thilakshana%20Bandaranayaka!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=As%20a%20caffeinated%20inhabitant%20of%20the%20code%20cosmos%20!&descAlignY=51&descAlign=62)
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, 
 
-
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, I'm Thilakshana Bandaranayaka!
-
-As a caffeinated inhabitant of the code cosmos, I traverse the realms of SLIIT University (Sri Lanka) currently navigating the exciting journey of academia, being enthusiastic about technology and its applications in Data Science. 
+I traverse the realms of SLIIT University (Sri Lanka) currently navigating the exciting journey of academia, being enthusiastic about technology and its applications in Data Science. 
 
 Enchanted by the charisma of technology, my heart beats to the rhythm of algorithms and the dance of artificial intelligence.
 
