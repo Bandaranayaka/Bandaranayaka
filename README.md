@@ -32,6 +32,8 @@ Enchanted by the charisma of technology, my heart beats to the rhythm of algorit
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" />][tech_tools_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
