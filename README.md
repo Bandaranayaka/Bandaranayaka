@@ -1,4 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Thilakshana%20Bandaranayaka!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=A%20caffeinated%20inhabitant%20of%20the%20code%20cosmos%20!&descAlignY=51&descAlign=62)
+
+## Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Bandaranayaka"><img src="https://github.com/Bandaranayaka.png" alt="@Bandaranayaka" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/Bandaranayaka"><b>Bandaranayaka</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/Bandaranayaka"> <img src="https://komarev.com/ghpvc/?username=Bandaranayaka&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hello, 
 
 I traverse the realms of SLIIT University (Sri Lanka) currently navigating the exciting journey of academia, being enthusiastic about technology and its applications in Data Science. 
@@ -61,6 +85,11 @@ I'm on a continuous learning path, exploring natural language processing to deep
 ## 🔥 GitHub Streak & stats <br> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bandaranayaka&theme=dark&card_width=467)](https://git.io/streak-stats) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandaranayaka&theme=synthwave&show_icons=true)
+
+## Top Respositorys
+  <p align="left">
+    <a href="https://github.com/Bandaranayaka/README.md"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bandaranayaka&repo=README.md&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 
 
 ## 📫 Let's Connect
