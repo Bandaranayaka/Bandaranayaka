@@ -86,12 +86,6 @@ I'm on a continuous learning path, exploring natural language processing to deep
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bandaranayaka&theme=dark&card_width=467)](https://git.io/streak-stats) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandaranayaka&theme=synthwave&show_icons=true)
 
-## Top Respositorys
-  <p align="left">
-    <a href="https://github.com/Bandaranayaka/README.md"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bandaranayaka&repo=README.md&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
-
 ## 📫 Let's Connect
  [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/thilakshana-bandaranayaka)
 
