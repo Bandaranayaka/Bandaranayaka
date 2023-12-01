@@ -51,11 +51,12 @@ Enchanted by the charisma of technology, my heart beats to the rhythm of algorit
 I'm on a continuous learning path, exploring natural language processing to deepen my understanding of how machines can understand and generate human-like text. Always eager to embrace new challenges and expand my skill set.
 
 ## 💻 Projects
-- Contributed to a dynamic web project using HTML, CSS, JavaScript, and PHP, seamlessly integrating XAMPP for local server 
-  deployment and leveraging SQL Server for efficient database management.
-- Played a key role in crafting a robust web application, employing HTML, CSS, JavaScript, and Java with servlets,enhancing 
-  the MVC architecture.Implemented and optimized MySQL databases, coupled with Apache Tomcat server, for a powerful and 
-  efficient user experience
+- made a substantial contribution to a web application project by coordinating the interaction of servlets with HTML, CSS, 
+  JavaScript, and Java. By combining Apache Tomcat server and MySQL databases, the project's architecture was advanced, 
+  improving performance and guaranteeing a smooth user experience.
+- worked together on a web development project, utilizing the strength of XAMPP for local hosting in conjunction with HTML, 
+  CSS, JavaScript, and PHP. SQL Server was used to implement efficient database solutions that improved project 
+  functionality and data management.
 - Implemented a sentiment analysis system for my machine learning class, achieving an accuracy of 85%.
 - Contributed to an open-source project for developing a chatbot using Python and TensorFlow.
 
