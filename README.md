@@ -56,6 +56,16 @@ Enchanted by the charisma of technology, my heart beats to the rhythm of algorit
 &nbsp;
 [<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C logo" title="C" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
