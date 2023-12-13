@@ -31,7 +31,7 @@ Enchanted by the charisma of technology, my heart beats to the rhythm of algorit
 
 ## 📚 Academic Background
 - **University:** SLIIT University (Sri Lanka)
-- **Major:** Data Science
+- **Major:** IT
 - **Year:** Junior (Expected Graduation: 2026)
 
 ## 🛠  Technologies and tools
