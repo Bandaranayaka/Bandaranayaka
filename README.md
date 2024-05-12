@@ -96,8 +96,7 @@ I'm on a continuous learning path, exploring natural language processing to deep
 - worked together on a web development project, utilizing the strength of XAMPP for local hosting in conjunction with HTML, 
   CSS, JavaScript, and PHP. SQL Server was used to implement efficient database solutions that improved project 
   functionality and data management.
-- Implemented a sentiment analysis system for my machine learning class, achieving an accuracy of 85%.
-- Contributed to an open-source project for developing a chatbot using Python and TensorFlow.
+- In the CEAT Kalani Pvt Ltd project, I've contributed to building a vendor management portal using PHP, Bootstrap, and Laravel over a 2-year 2-semester period. My role specifically entails developing the order management function and creating three-layered admin panels catering to vendor managers, procurement managers, and super admins
 
 ## 🔥 GitHub Streak & stats <br> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bandaranayaka&theme=dark&card_width=467)](https://git.io/streak-stats) 
